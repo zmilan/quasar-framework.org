@@ -99,6 +99,7 @@ You can make some tweaks to distinguish between Material and iOS themes. You'll 
 
 <!-- nav-tabs.vue -->
 <q-tabs :inverted="$q.theme === 'ios'">
-  <q-route-tab......
+  <q-route-tab />
+  ......
 </q-tabs>
 ```
